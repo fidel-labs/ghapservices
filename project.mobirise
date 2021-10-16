@@ -52,13 +52,13 @@
     "uniqCompNum": 2,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Home | GHAP Services | Your Partner in Business",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
