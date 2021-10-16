@@ -51,7 +51,8 @@
     "imageResize": true,
     "uniqCompNum": 2,
     "versionPublish": "5.3.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
